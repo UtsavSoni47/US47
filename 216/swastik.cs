@@ -1,6 +1,6 @@
 using System;
 
-class GFG {
+class swastik {
 	
 	static void swastika(int row, int col) 
 	{
