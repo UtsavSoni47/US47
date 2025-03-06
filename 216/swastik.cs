@@ -66,7 +66,7 @@ class swastik {
 	{
 		
 	
-		int row = 7, col = 7;
+		int row = 9, col = 9;
 		
 		
 		swastika(row, col);
