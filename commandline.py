@@ -1,0 +1,10 @@
+import sys
+print("file name is", sys.argv[0])
+sum1=int(sys.argv[1])+int(sys.argv[2])
+sum2=int(sys.argv[1])-int(sys.argv[2])
+sum3=int(sys.argv[1])*int(sys.argv[2])
+sum4=int(sys.argv[1])/int(sys.argv[2])
+print("sum is:",sum1)
+print("sub is:",sum2)
+print("mul is:",sum3)
+print("div is:",sum4)
